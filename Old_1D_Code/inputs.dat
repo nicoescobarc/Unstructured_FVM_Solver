@@ -1,0 +1,10 @@
+1.8       ! D [m2/s]
+0.2       ! u [m/s]
+5.0       ! k [1/s]
+0.1       ! Cref [kg/m3]
+0.9       ! L [m]
+45        ! n_cells
+0.001    ! delta_t [s]
+5         ! tf [s]
+0.5       ! theta
+
